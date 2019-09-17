@@ -7,8 +7,8 @@ baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
-city: Upper Marlboro
-state: Maryland
+city: Boulder
+state: Colorado
 zip_code: "\n"
 country: United States of America
 phone: 
