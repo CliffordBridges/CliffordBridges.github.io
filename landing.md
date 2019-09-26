@@ -1,5 +1,5 @@
 ---
-title: Project Spotlights
+title: Landing
 layout: landing
 description: 'Check out a few recent projects to see what I'm all about!'
 image: assets/images/slo.JPG
@@ -55,16 +55,16 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/krystal_jumpsuit_github.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Whose Clothes Fit Well</h3>
 				</header>
-				<p>Through the years and the rise of popularity in e-commerce for clothing, some brands have tried to grow their user base by expanding their size selections. When brands avoid trying to expand their selection, they may receive public backlash, for example Lululemon in 2013. But has offering wider size ranges really helped a brand’s client base feel more secure in their clothes? We investigate this question using statistical analysis of review ratings from ModCloth and Rent The Runway.</p>
+				<p>Through the years and the rise of popularity in e-commerce for clothing, some brands have tried to grow their user base by expanding their size selections. When brands avoid trying to expand their selection, they may receive public backlash, for example [Lululemon in 2013](https://www.huffingtonpost.ca/2013/11/06/lululemon-chip-wilson-womens-bodies_n_4228113.html). But has offering wider size ranges really helped a brand’s client base feel more secure in their clothes? We investigate this question using statistical analysis of review ratings from ModCloth and Rent The Runway.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/CliffordBridges/Whose-Clothes-Fit-Well" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>My background is in theoretical mathematics, which has taught me invaluable skills in asking the right questions to get to a valuable answer. Now I am applying those skills in data science and machine learning! Check out a few of my projects hosted on Github ranging from fashion to instructional book sales. Contact me if you have any ideas about new directions to take these projects; I am excited to continue learning new skills.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="all_posts.html" class="button next">See More Projects</a></li>
 		</ul>
 	</div>
 </section>
