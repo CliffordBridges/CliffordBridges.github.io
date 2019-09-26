@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Project Spotlights
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Check out a few recent projects to see what I'm all about!'
+image: assets/images/slo.JPG
 nav-menu: true
 ---
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Same Brand, Same Size, Different Fit</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We hope to provide a better means of classifying what type of fit men’s swimwear bottoms will provide a customer. The current standard is “board shorts” or “swim trunks”, but these labels can fail describe a particular pair of swimwear accurately. We will use natural language processing on garment descriptions provided by e-commerce sites to more accurately classify the type of fit a garment will provide.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/CliffordBridges/same-size-same-brand-different-fit" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Big Dream Ministries</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Big Dream Ministries offers studies that help people learn more about themselves through the Bible. These studies are sold in different packages; a set includes several DVDs and a workbook, a unit contains several sets, and a collection is the entire study. The broad question we answer in this project is: which customers will purchase new packages, and if they do, which ones? We arrive at an answer using so called Buy ‘Til You Die (BTYD) models of customer likelihood of making future purchases, along with ensemble methods (logistic regression and random forest) to determine which studies will be purchased.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Whose Clothes Fit Well</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Through the years and the rise of popularity in e-commerce for clothing, some brands have tried to grow their user base by expanding their size selections. When brands avoid trying to expand their selection, they may receive public backlash, for example Lululemon in 2013. But has offering wider size ranges really helped a brand’s client base feel more secure in their clothes? We investigate this question using statistical analysis of review ratings from ModCloth and Rent The Runway.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Meet Cliff</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>My background is in theoretical mathematics, which has taught me invaluable skills in asking the right questions to get to a valuable answer. Now I am applying those skills in data science and machine learning! Check out a few of my projects hosted on Github ranging from fashion to instructional book sales. Contact me if you have any ideas about new directions to take these projects; I am excited to continue learning new skills.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
