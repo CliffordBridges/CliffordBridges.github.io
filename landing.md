@@ -62,8 +62,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Whose Clothes Fit Well</h3>
 				</header>
-				<p>Image by [Asia Michaela Photography](https://www.facebook.com/asiamichaelaphotography/)<br/>
-Through the years and the rise of popularity in e-commerce for clothing, some brands have tried to grow their user base by expanding their size selections. When brands avoid trying to expand their selection, they may receive public backlash, for example <a href="https://www.huffingtonpost.ca/2013/11/06/lululemon-chip-wilson-womens-bodies_n_4228113.html" class="button">Lululemon in 2013</a>. But has offering wider size ranges really helped a brand’s client base feel more secure in their clothes? We investigate this question using statistical analysis of review ratings from ModCloth and Rent The Runway.</p>
+				Image by <a href="https://www.facebook.com/asiamichaelaphotography/">Asia Michaela Photography</a>
+				<p>Through the years and the rise of popularity in e-commerce for clothing, some brands have tried to grow their user base by expanding their size selections. When brands avoid trying to expand their selection, they may receive public backlash, for example <a href="https://www.huffingtonpost.ca/2013/11/06/lululemon-chip-wilson-womens-bodies_n_4228113.html" class="button">Lululemon in 2013</a>. But has offering wider size ranges really helped a brand’s client base feel more secure in their clothes? We investigate this question using statistical analysis of review ratings from ModCloth and Rent The Runway.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/CliffordBridges/Whose-Clothes-Fit-Well" class="button">Learn more</a></li>
 				</ul>
