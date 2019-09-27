@@ -1,8 +1,8 @@
 ---
 title: Landing
 layout: landing
-description: 'Check out a few recent projects to see what I'm all about!'
-image: assets/images/pic01.jpg
+description: Check out a few recent projects to see what I'm all about!
+image: assets/images/slo_github.jpg
 nav-menu: true
 ---
 
