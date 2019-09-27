@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Spotlights
 layout: landing
 description: Check out a few recent projects to see what I'm all about!
 image: assets/images/slo_github.jpg
