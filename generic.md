@@ -3,7 +3,7 @@ layout: post
 title: Resume
 description: See the Big Picture
 image: assets/images/profile_landscape_github.jpg
-nav-menu: false
+nav-menu: True
 ---
 
 <html>
