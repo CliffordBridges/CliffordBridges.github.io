@@ -4,6 +4,7 @@ title: Resume
 description: See the Big Picture
 image: assets/images/profile_landscape_github.jpg
 nav-menu: True
+show_tile: True
 ---
 
 <html>
