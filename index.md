@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Cliff's GitHub!'
+landing-title: Welcome to Cliff's GitHub!
 description: null
 image: null
 author: null
