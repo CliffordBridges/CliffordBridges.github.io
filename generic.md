@@ -8,11 +8,11 @@ nav-menu: false
 
 <html>
   <head>
-    <title>Updated 10.1.19</title>
+    <title>Cliff's Resume</title>
   </head>
   <body>
-    <h1>Cliff's Resume</h1>
-    <iframe src="assets/pdfs/DataScienceResume.pdf#toolbar=0" width="100%" height="1400px">
+    <h3>Updated 10.1.19</h3>
+    <iframe src="assets/pdfs/DataScienceResume.pdf#toolbar=0" width="100%" height="1300px">
     </iframe>
   </body>
 </html>
