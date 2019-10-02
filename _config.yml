@@ -28,7 +28,7 @@ linkedin_url: https://www.linkedin.com/in/clifford-bridges-69056371
 pinterest_url:
 slack_url:
 twitter_url: 
-# add medium_url: https://medium.com/@cliffordbridges_3887
+medium_url: https://medium.com/@cliffordbridges_3887
 
 # build settings
 markdown: kramdown
