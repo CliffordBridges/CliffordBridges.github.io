@@ -1,7 +1,7 @@
 ---
 title: Spotlights
 layout: spotlights
-description: Check out a few recent projects to see what I'm all about!
+description: Check out a few recent projects!
 image: assets/images/slo_github.jpg
 nav-menu: true
 show_tile: true
