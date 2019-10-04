@@ -81,7 +81,7 @@ show_tile: true
 		</header>
 		<p>My background is in theoretical mathematics, which has taught me invaluable skills in asking the right questions to get to a valuable answer. Now I am applying those skills in data science and machine learning! Check out a few of my projects hosted on Github ranging from fashion to instructional book sales. Contact me if you have any ideas about new directions to take these projects; I am excited to continue learning new skills.</p>
 		<ul class="actions">
-			<li><a href="all_posts.html" class="button next">See More Projects</a></li>
+			<li><a href="all_repos.html" class="button next">See More Projects</a></li>
 		</ul>
 	</div>
 </section>
