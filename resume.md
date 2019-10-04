@@ -13,7 +13,7 @@ show_tile: True
   </head>
   <body>
     <h3>Updated 10.1.19</h3>
-    <iframe src="assets/pdfs/DataScienceResume.pdf#toolbar=0" width="100%" height="1350px">
+    <iframe src="assets/pdfs/DataScienceResume.pdf#toolbar=0" width="100%" height="1370px">
     </iframe>
   </body>
 </html>
