@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-description: See the Big Picture
+description: See What I've Been Up To
 image: assets/images/profile_landscape_github.jpg
 nav-menu: True
 show_tile: True
