@@ -2,7 +2,7 @@
 layout: post
 title: Laplace Smoothing Animation
 description: What does Laplace smoothing actually do?
-image: assets/images/pic05.jpg
+image: assets/images/cold_laplace_smoothing.gif
 ---
 
 This is a jupyter notebook tag-a-long to my Medium article, ["Laplace Smoothing and the Sunrise Problem"](https://medium.com/p/1ac6a22449b9/edit). 
