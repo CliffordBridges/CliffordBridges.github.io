@@ -265,6 +265,9 @@ Finally, this is a <a href="#">link</a>.</p>
 
 </div>
 <div class="6u$ 12u$(medium)">
+	
+<!-- Test Image -->
+![test image]({{ site.url | absolute_path}}/assets/images/ceramics.jpeg)
 
 <!-- Buttons -->
 <h3>Buttons</h3>
