@@ -2,7 +2,7 @@
 layout: post
 title: Help Me Decide
 description: A tool to quickly formalize the decision making process
-image: assets/images/pic06.jpg
+image: assets/images/ceramics.jpeg
 ---
 
 One day I was talking to a friend about the choice between two jobs. 
