@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/CliffordBridges/same-size-same-brand-different-fit" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -55,7 +55,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/CliffordBridges/Whose-Clothes-Fit-Well" class="image">
 			<img src="assets/images/krystal_jumpsuit_github.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
