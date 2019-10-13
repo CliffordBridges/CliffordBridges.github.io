@@ -39,7 +39,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/CliffordBridges/big-dream-ministries" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -49,7 +49,7 @@ show_tile: true
 				</header>
 				<p>Big Dream Ministries offers studies that help people learn more about themselves through the Bible. These studies are sold in different packages; a set includes several DVDs and a workbook, a unit contains several sets, and a collection is the entire study. The broad question we answer in this project is: which customers will purchase new packages, and if they do, which ones? We arrive at an answer using so called Buy ‘Til You Die (BTYD) models of customer likelihood of making future purchases, along with ensemble methods (logistic regression and random forest) to determine which studies will be purchased.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/CliffordBridges/big-dream-ministries" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
