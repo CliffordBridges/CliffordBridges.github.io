@@ -40,7 +40,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="https://github.com/CliffordBridges/big-dream-ministries" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/beach_sunrise.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
