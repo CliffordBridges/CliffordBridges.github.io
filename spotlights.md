@@ -56,7 +56,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="https://github.com/CliffordBridges/Whose-Clothes-Fit-Well" class="image">
-			<img src="assets/images/krystal_jumpsuit_github.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/krystal_jumpsuit.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
