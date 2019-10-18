@@ -2,7 +2,7 @@
 layout: post
 title: Big Dream Ministries
 description: We provide insight into current sales and predictive power for future sales for [Big Dream Ministries](https://www.bigdreamministries.org/). 
-image: assets/images/pic02.jpg
+image: assets/images/beach_sunrise.jpg
 ---
 
 Big Dream Ministries offers studies that help people learn more themselves through the Bible. 
